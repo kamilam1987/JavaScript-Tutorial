@@ -9,3 +9,6 @@ Syntax and types revision.</br>
 
 ### Chapter 3
 Practice with different ways to control the flow of our code - for loops, while loops, if statements, else if statements, switches and more.
+
+### Chapter 4
+Functions - function declarations, function expressions, arrow functions.
